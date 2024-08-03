@@ -10,12 +10,10 @@ Spartan: XYZ files after geometry optimization.
 
 ML/
 
-- Make_descriptors:
+- Make_descriptors: Code for generating descriptors.
 
-- Regression:
+- Regression: Code for yield prediction.
 
-- SHAP:
+- SHAP: Code for analysis using SHAP.
 
-- Score:
-
-
+- Score: Results of yield prediction. 
