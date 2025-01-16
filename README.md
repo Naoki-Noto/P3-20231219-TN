@@ -27,3 +27,12 @@ ML_Gaussian (DFT and hybrid descriptors were obtained through computations perfo
 - Regression: Code for yield prediction.
 
 - Score: Results of yield prediction. 
+
+
+ML_Gaussian (DFT and hybrid descriptors were obtained through computations performed at the PCM(toluene)-B3LYP/6-311G(d,p) level.)/
+
+- Make_descriptors: Code for generating descriptors.
+
+- Regression: Code for yield prediction.
+
+- Score: Results of yield prediction. 
