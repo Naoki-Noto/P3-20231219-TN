@@ -1,6 +1,14 @@
 # P3-20231219-TN
 Python (3.9.19) was used as a language for this research, and used packages were matplotlib (3.8.4), numpy (1.26.4), pandas (2.2.2), rdkit (2023.9.5), shap (0.45.0) seaborn (0.13.2) and scikit-learn (1.4.2).
 
+# Citation Information
+title={Study on Phosphorus Compound/Catechol-Catalyzed Dehydrative Amidation and Its Database Development for Machine Learning}
+
+author={TaikiNagano, Dattatraya B. Bagal, Ryuga Kunisada, Haruno Nakajima, Koki Sano, Naoki Noto, Susumu Saito}
+
+journal info={Chem. Eur. J. 2025, 31, e202500955.}
+
+DOI: https://doi.org/10.1002/chem.202500955
 
 # Table of Contents
 
