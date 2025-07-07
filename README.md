@@ -4,7 +4,7 @@ Python (3.9.19) was used as a language for this research, and used packages were
 # Citation Information
 title={Study on Phosphorus Compound/Catechol-Catalyzed Dehydrative Amidation and Its Database Development for Machine Learning}
 
-author={TaikiNagano, Dattatraya B. Bagal, Ryuga Kunisada, Haruno Nakajima, Koki Sano, Naoki Noto, Susumu Saito}
+author={Taiki Nagano, Dattatraya B. Bagal, Ryuga Kunisada, Haruno Nakajima, Koki Sano, Naoki Noto, Susumu Saito}
 
 journal info={Chem. Eur. J. 2025, 31, e202500955.}
 
